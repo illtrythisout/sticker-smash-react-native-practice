@@ -2,7 +2,7 @@ import { Image } from 'expo-image';
 import { ImageSourcePropType, StyleSheet } from 'react-native';
 
 type Props = {
-  imgSource: ImageSourcePropType,
+  imgSource: ImageSourcePropType;
   selectedImage?: string;
 };
 
@@ -17,5 +17,5 @@ const styles = StyleSheet.create({
     width: 320,
     height: 440,
     borderRadius: 18,
-  }
-})
+  },
+});

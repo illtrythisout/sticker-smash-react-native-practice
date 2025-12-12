@@ -13,10 +13,10 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
-    "app/(tabs)/index.jsx",
-    "app/+not-found.jsx",
-    "app/(tabs)/about.jsx",
-    "app/_layout.jsx",
-    "app/(tabs)/_layout.jsx",
+    "app/(tabs)/index.tsx",
+    "app/+not-found.tsx",
+    "app/(tabs)/about.tsx",
+    "app/_layout.tsx",
+    "app/(tabs)/_layout.tsx",
   ]
 }
